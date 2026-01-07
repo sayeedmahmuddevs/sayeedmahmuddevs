@@ -2,7 +2,11 @@
 #### Web Developer
 ![Web Developer](	https://i.imgur.com/lhtgBC6.jpeg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a passionate web developer with experience in building dynamic and responsive web applications.
+I work mainly with PHP and JavaScript to develop functional and user-friendly websites.
+
+I enjoy learning new technologies, improving my coding skills, and turning ideas into real-world projects.
+Always focused on writing clean, efficient, and maintainable code.
 
 Skills: LARAVEL / PHP / REACT / JS / HTML / CSS
 
