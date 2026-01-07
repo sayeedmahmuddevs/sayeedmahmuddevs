@@ -20,6 +20,9 @@ Skills: LARAVEL / PHP / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedmahmuddevs&layout=compact)](https://github.com/sayeedmahmuddevs)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sayeedmahmuddevs/contributions?format=svg&private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedmahmuddevs&layout=compact" />
+</p>
+
 
 
