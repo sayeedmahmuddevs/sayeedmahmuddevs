@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sayeed Mahmud
 #### Web Developer
-![Web Developer](	https://i.imgur.com/lhtgBC6.jpeg)
+![Web Developer]
 
 I am a passionate web developer with experience in building dynamic and responsive web applications.
 I work mainly with PHP and JavaScript to develop functional and user-friendly websites.
