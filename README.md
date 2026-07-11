@@ -3,15 +3,15 @@
 ![Web Developer]
 
 I am a passionate web developer with experience in building dynamic and responsive web applications.
-I work mainly with PHP and JavaScript to develop functional and user-friendly websites.
+I work mainly with NodeJS and JavaScript to develop functional and user-friendly websites.
 
 I enjoy learning new technologies, improving my coding skills, and turning ideas into real-world projects.
 Always focused on writing clean, efficient, and maintainable code.
 
-Skills: LARAVEL / PHP / REACT / JS / HTML / CSS
+Skills: ExpressJS / NodeJS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript,PHP 
+- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Developer 
 
