@@ -38,6 +38,41 @@ const sayeed = {
 **Tools** `// daily use`<br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&theme=dark" alt="Git, GitHub, Postman, Vercel, Netlify" />
 
+
+## $ ls projects/
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Bazar Dhor</h3>
+      <p>ONE_LINE_DESCRIPTION</p>
+      <img src="https://img.shields.io/badge/TECH-0d1a14?style=flat-square&color=5cf2a0&labelColor=0d1a14" alt="TECH" />
+      <img src="https://img.shields.io/badge/TECH-0d1a14?style=flat-square&color=5cf2a0&labelColor=0d1a14" alt="TECH" />
+      <br /><br />
+      <a href="LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-5cf2a0?style=for-the-badge&labelColor=08110d" alt="Live Demo" /></a>
+      <a href="REPO_LINK"><img src="https://img.shields.io/badge/Code-1d3a2c?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Country Explore</h3>
+      <p>Explore countries and see their key details in one place.</p>
+      <img src="https://img.shields.io/badge/TECH-0d1a14?style=flat-square&color=5cf2a0&labelColor=0d1a14" alt="TECH" />
+      <img src="https://img.shields.io/badge/TECH-0d1a14?style=flat-square&color=5cf2a0&labelColor=0d1a14" alt="TECH" />
+      <br /><br />
+      <a href="LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-5cf2a0?style=for-the-badge&labelColor=08110d" alt="Live Demo" /></a>
+      <a href="https://github.com/sayeedmahmuddevs/Country-Explore-App"><img src="https://img.shields.io/badge/Code-1d3a2c?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Fit-Log</h3>
+      <p>Log and track your fitness activity.</p>
+      <img src="https://img.shields.io/badge/TECH-0d1a14?style=flat-square&color=5cf2a0&labelColor=0d1a14" alt="TECH" />
+      <img src="https://img.shields.io/badge/TECH-0d1a14?style=flat-square&color=5cf2a0&labelColor=0d1a14" alt="TECH" />
+      <br /><br />
+      <a href="LIVE_LINK"><img src="https://img.shields.io/badge/Live_Demo-5cf2a0?style=for-the-badge&labelColor=08110d" alt="Live Demo" /></a>
+      <a href="https://github.com/sayeedmahmuddevs/Fit-Log"><img src="https://img.shields.io/badge/Code-1d3a2c?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+    </td>
+  </tr>
+</table>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sayeed.mahmud.298421) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sayeed.lam/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayeed-mahmud-devs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayeedmahmud343@gmail.com) 
 
