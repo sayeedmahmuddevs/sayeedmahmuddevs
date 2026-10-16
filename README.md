@@ -2,11 +2,6 @@
      <img src="./header.svg" alt="Sayeed Mahmud, Full Stack Developer (Learning)" width="100%" />
    </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeedmahmuddevs&label=Profile%20views&color=0e75b6&style=flat" alt="sayeedmahmuddevs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayeedmahmuddevs" alt="sayeedmahmuddevs" /></a> </p>
-
 ## $ cat about.js
 
 ```js
@@ -72,6 +67,17 @@ const sayeed = {
     </td>
   </tr>
 </table>
+
+## $ gh stats --me
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=sayeedmahmuddevs&show_icons=true&bg_color=0d1a14&title_color=5cf2a0&text_color=d9f2e4&icon_color=5cf2a0&border_color=1d3a2c&count_private=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sayeedmahmuddevs&layout=compact&langs_count=6&bg_color=0d1a14&title_color=5cf2a0&text_color=d9f2e4&border_color=1d3a2c" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sayeedmahmuddevs&background=0d1a14&ring=5cf2a0&fire=5cf2a0&currStreakNum=d9f2e4&sideNums=d9f2e4&currStreakLabel=5cf2a0&sideLabels=9fc4b0&dates=6f9482&stroke=1d3a2c&border=1d3a2c" alt="GitHub streak" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sayeed.mahmud.298421) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sayeed.lam/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayeed-mahmud-devs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayeedmahmud343@gmail.com) 
