@@ -23,6 +23,20 @@ const sayeed = {
   contact: "sayeedmahmud343@gmail.com",
 };
 ```
+## $ ls skills/
+
+**Frontend** `// comfortable`<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+
+**Backend** `// learning`<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
+<img src="https://img.shields.io/badge/Better_Auth-learning-5cf2a0?style=flat-square&labelColor=0d1a14" alt="Better Auth" />
+
+**Database** `// learning`<br>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+
+**Tools** `// daily use`<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&theme=dark" alt="Git, GitHub, Postman, Vercel, Netlify" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sayeed.mahmud.298421) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sayeed.lam/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayeed-mahmud-devs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayeedmahmud343@gmail.com) 
