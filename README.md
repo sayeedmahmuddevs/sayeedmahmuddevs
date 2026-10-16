@@ -7,9 +7,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayeedmahmuddevs" alt="sayeedmahmuddevs" /></a> </p>
 
-# 💫 About Me:
-🔭 Working on TypeScript based web project<br><br>🌱 I’m currently learning React, TypeScript, Next.Js, Node Js, Express.Js<br><br>👯 I’m looking to collaborate on Open-source projects and web applications<br><br>🤝 I’m looking for help with Improving my React & TypeScript skills and building real-world projects<br><br>💬 Ask me about HTML, CSS, JavaScript, React, TypeScript, Next.Js, Node Js, Express.Js<br><br>📫 How to reach me sayeedmahmud343@gmail.com
+## $ cat about.js
 
+```js
+const sayeed = {
+  name: "Sayeed Mahmud",
+  role: "Full Stack Developer (Learning)",
+  location: "Bangladesh",
+  status: "Student, building real projects",
+
+  comfortableWith: ["JavaScript", "TypeScript", "React", "Next.js"],
+  learningNow: ["Node.js", "Express.js", "MongoDB", "Better Auth"],
+
+  openTo: ["Freelance projects", "Open-source collaboration"],
+  contact: "sayeedmahmud343@gmail.com",
+};
+```
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sayeed.mahmud.298421) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sayeed.lam/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayeed-mahmud-devs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayeedmahmud343@gmail.com) 
