@@ -34,6 +34,38 @@ const sayeed = {
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify&theme=dark" alt="Git, GitHub, Postman, Vercel, Netlify" />
 
 
+## $ ls services/
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Landing pages & business websites</h3>
+      <p>Clean, responsive sites that present your business clearly on any screen.</p>
+      <sub>HTML · CSS · Tailwind CSS · Next.js</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>React / Next.js web apps</h3>
+      <p>Interactive web apps with reusable components and typed, maintainable code.</p>
+      <sub>React · Next.js · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>REST APIs</h3>
+      <p>Backend APIs to store and serve your data.</p>
+      <sub>Node.js · Express · MongoDB</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Login & authentication</h3>
+      <p>Sign-up and sign-in for your app.</p>
+      <sub>Better Auth · Node.js · MongoDB</sub>
+    </td>
+  </tr>
+</table>
+
+> Have something else in mind? [Email me](mailto:sayeedmahmud343@gmail.com?subject=Project%20Inquiry) and let's talk.
+
+
 ## $ ls projects/
 
 <table>
